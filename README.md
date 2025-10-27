@@ -1,6 +1,6 @@
 # Data-Visualization-using-Tableau
 This project analyse and present insights on Vehicle insurance claims to refine claims , policy offerings, improve profitability
-# 🚗 [ehicle Insurance Claim Risk Analysis Dashboard](https://public.tableau.com/app/profile/akash.ks4726/viz/DVTProject_17572392758000/DVTProject)
+# 🚗 [Vehicle Insurance Claim Risk Analysis Dashboard](https://public.tableau.com/app/profile/akash.ks4726/viz/DVTProject_17572392758000/DVTProject)
 ### *Interactive Tableau Storyboard for Data-Driven Risk Profiling*
 
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?style=for-the-badge&logo=tableau)
