@@ -81,9 +81,10 @@ This analysis addresses the question:
 
 ## 🚀 How to Explore  
 
-1. **Download** the `.twbx` file  
-2. **Open** in Tableau Desktop (version 2021.1 or later)  
-3. **Navigate** through the storyboard panels and filters    
+1.  Click this link to view dashboard in Tableau public [Click her](https://public.tableau.com/app/profile/akash.ks4726/viz/DVTProject_17572392758000/DVTProject)
+2. **Download** the `.twbx` file  
+3. **Open** in Tableau Desktop (version 2021.1 or later)  
+4. **Navigate** through the storyboard panels and filters    
 
 ---
 
