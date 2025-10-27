@@ -95,7 +95,7 @@ It shows the power of Tableau in connecting **financial impact with customer beh
 ---
 
 ### 📍 Author  
-**Akhu** — Data Analyst | Tableau & Power BI Developer | Python Enthusiast  
+**Akash** — Data Analyst | Tableau & Power BI Developer | 
 📫 [LinkedIn](https://www.linkedin.com/in/akash-k-s-73689b148/) • [Tableau Public](https://public.tableau.com/app/profile/akash.ks4726/vizzes)   
 
 ---
