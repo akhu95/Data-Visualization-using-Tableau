@@ -47,16 +47,6 @@ This analysis addresses the question:
   3. Vehicle Attribute Analysis →  
   4. Loss Segmentation by Customer & Vehicle →  
   5. Recommendations  
-
----
-
-## 📈 Key Visuals (Preview)  
-> *(Add screenshots from your dashboard here once uploaded to GitHub)*  
-
-| Claim Overview | Customer Risk Profile | Vehicle Loss Analysis |
-|:---------------:|:--------------------:|:---------------------:|
-| ![Overview](link-to-image1) | ![Risk](link-to-image2) | ![Vehicle](link-to-image3) |
-
 ---
 
 ## 🧰 Tools & Techniques  
@@ -85,7 +75,6 @@ This analysis addresses the question:
 | File | Description |
 |------|-------------|
 | `Vehicle_Insurance_Claim_Analysis.twbx` | Tableau packaged workbook (interactive storyboard) |
-| `DVT_Project.pdf` | PDF version of the storyboard and insights summary |
 | `README.md` | This documentation file |
 
 ---
@@ -94,8 +83,7 @@ This analysis addresses the question:
 
 1. **Download** the `.twbx` file  
 2. **Open** in Tableau Desktop (version 2021.1 or later)  
-3. **Navigate** through the storyboard panels and filters  
-4. **Refer** to the PDF for the narrative summary  
+3. **Navigate** through the storyboard panels and filters    
 
 ---
 
@@ -107,8 +95,8 @@ It shows the power of Tableau in connecting **financial impact with customer beh
 
 ### 📍 Author  
 **Akhu** — Data Analyst | Tableau & Power BI Developer | Python Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/) • [Tableau Public](https://public.tableau.com/) • [GitHub](https://github.com/)  
+📫 [LinkedIn](https://www.linkedin.com/in/akash-k-s-73689b148/) • [Tableau Public](https://public.tableau.com/app/profile/akash.ks4726/vizzes)   
 
 ---
 
-⭐ *If you find this project insightful, consider starring the repo to support the work!*  
+
